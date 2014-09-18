@@ -14,3 +14,6 @@ Once it is merged and pushed to ‘master’, you can and should deploy immediat
 
 
 You’ve decided that you’re going to work on issue #53 in whatever issue-tracking system your company uses. To be clear, Git isn’t tied into any particular issue-tracking system; but because issue #53 is a focused topic that you want to work on, you’ll create a new branch in which to work. To create a branch and switch to it at the same time, you can run the git checkout command with the -b switch:
+
+
+adam 2 addition
